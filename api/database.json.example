@@ -1,0 +1,22 @@
+{
+    "contacts": [
+        {
+            "id": 1,
+            "name": "Joe Dirt",
+            "phoneNumber": "867-5309",
+            "address": "Home is Where You Make It"
+        },
+        {
+            "id": 2,
+            "name": "Mike Jones",
+            "phoneNumber": "281-330-8004",
+            "address": "Houston, TX"
+        },
+        {
+            "id": 3,
+            "name": "Chris Morgan",
+            "phoneNumber": "970-355-5094",
+            "address": "Franklin, TN"
+        }
+    ]
+}
